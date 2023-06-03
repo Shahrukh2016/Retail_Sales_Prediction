@@ -40,9 +40,11 @@ The Rossman Sales Prediction project involved extensive data analysis, feature e
    - Successfully created a model capable of accurately predicting sales for Rossmann stores up to six weeks in advance.
 
 This project showcases the effective utilization of data analysis, feature engineering, and machine learning techniques to solve a real-world forecasting problem. The insights gained from the analysis provide valuable information for decision-making within the retail industry.
+*****************************************************************************************************************************************
 
-Feel free to explore the code and documentation provided in this repository to gain a deeper understanding of the project and replicate the results. If you have any questions or suggestions, please don't hesitate to reach out.
+Feel free to explore the code and documentation provided in this repository to gain a deeper understanding of the project and replicate the results and if you have any questions or suggestions, please don't hesitate to reach out.
+
+You can check out my [BI Portfolio](linktr.ee/shahrukh2016) for more projects, information and social handles.
 
 Happy forecasting!
-
-[Add relevant badges and acknowledgements if necessary.]
+*****************************************************************************************************************************************
