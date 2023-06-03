@@ -44,7 +44,7 @@ This project showcases the effective utilization of data analysis, feature engin
 
 Feel free to explore the code and documentation provided in this repository to gain a deeper understanding of the project and replicate the results and if you have any questions or suggestions, please don't hesitate to reach out.
 
-You can check out my [BI Portfolio](linktr.ee/shahrukh2016) for more projects, information and social handles.
+You can check out my [Linkedin](https://www.linkedin.com/in/shahrukhahmad26) for more projects and information.
 
 Happy forecasting!
 *****************************************************************************************************************************************
